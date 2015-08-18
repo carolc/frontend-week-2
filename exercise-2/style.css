@@ -42,5 +42,27 @@ html {
 *****************************************************************************
 */
 
+h1 {
+  margin-top: 60px; 
+}
 
+img {
+  padding-right: 10px;
+}
 
+li {
+  display: inline;
+  margin-right: 15px;
+}
+
+nav {
+  background-color: white;
+  position: fixed;
+  border: solid 1px grey;
+  width: 100%;
+}
+
+html {
+  background-image: url("https://s-media-cache-ak0.pinimg.com/avatars/amandaking7146_1408742105_30.jpg");
+  background-color: honeydew;
+}
